@@ -17,7 +17,7 @@ This is a repository to share things like concepts, syntax or tips I have recent
 
 ### CSS
 
-- [Cascaing](css/Cascading.md)
+- [Cascading & Specificity](css/Cascading.md)
 
 ### HTML
 
