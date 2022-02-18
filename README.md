@@ -10,6 +10,7 @@ This is a repository to share things like concepts, syntax or tips I have recent
 * [CSS](#css)
 * [HTML](#html)
 * [JavaScript](#javascript)
+* [Network](#network)
 * [Node.js](node.js)
 * [Python](#python)
 
@@ -22,6 +23,9 @@ This is a repository to share things like concepts, syntax or tips I have recent
 ### HTML
 
 ### JavaScript
+
+### Network
+- [HTTP vs WebSockets](HTTP-vs-WebSockets.md)
 
 ### Node.js
 
