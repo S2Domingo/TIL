@@ -22,7 +22,8 @@ This is a repository to share things like concepts, syntax or tips I have recent
 
 ### HTML
 
-### JavaScript
+### JavaScript\
+- [Variable](Variable.md)
 
 ### Network
 - [HTTP vs WebSockets](HTTP-vs-WebSockets.md)
