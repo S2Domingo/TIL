@@ -22,11 +22,11 @@ This is a repository to share things like concepts, syntax or tips I have recent
 
 ### HTML
 
-### JavaScript\
-- [Variable](Variable.md)
-
+### JavaScript
+- [Variable](javascript/Variable.md)
+- [Data-type](javascript/Data-type.md)
 ### Network
-- [HTTP vs WebSockets](HTTP-vs-WebSockets.md)
+- [HTTP vs WebSockets](Network/HTTP-vs-WebSockets.md)
 
 ### Node.js
 
