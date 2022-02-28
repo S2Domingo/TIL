@@ -7,6 +7,8 @@ boolean, null, undefined, number, string, symbol(ES6부터 제공)
 ## Reference Type
 array, function, object
 
+설명이 필요하지 않은 데이터 -> array
+안에 담겨있는 데이터가 무엇인지 설명이 필요한 데이터 -> object
 
 ## null, undefined
 undefined: 아직 타입이 정해지지 않음. 초기화되지 않은 변수나 존재하지 않는 값
@@ -33,3 +35,7 @@ property와 method를 같은 이름으로 묶어놓은 집합체
 이와 같은 방법으로 생성되어 메모리에 대입된 객체를 인스턴스 (instance)라고 한다.
 
 [source](http://www.tcpschool.com/javascript/js_object_create)
+
+() -> parentheses
+{} -> curly braket
+[] -> square braket
